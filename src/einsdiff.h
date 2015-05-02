@@ -31,7 +31,7 @@
  *  See the License for the specific language governing permissions
  *  and limitations under the License.
  *
- *  Last update: 2000-03-17
+ *  Haupt-Entwicklungszeit: 2000-03-01 - 2000-03-17
  */
  
 /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
